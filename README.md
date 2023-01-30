@@ -19,10 +19,10 @@ Recriar o jogo da Velha com o objetivo de consolidar os conhecimentos de JavaScr
 
 ### Tarefas:
 
-- [ ] Criar a estrutura com HTML (placar,linhas verticais e horizontais)
+- [X] Criar a estrutura com HTML (placar,linhas verticais e horizontais)
 - [ ] Estilização CSS
 - [ ] Criar alteração do placar na tela
 - [ ] Evento de click do mouse
 - [ ] opção de dois jogadores
-- [ ] opção de modo paa jogar com a máquina 
+- [ ] opção de modo paa jogar com a máquina (1 jogador)
 - [ ] Escolha da opção X ou O

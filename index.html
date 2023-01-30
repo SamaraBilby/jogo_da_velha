@@ -11,7 +11,48 @@
 </head>
 <body>
     
+    <h1>Jogo da Velha</h1>
+
+    <div id="buttons_container">
+        <button id="2_jogadores">2 Jogadores</button>
+        <button id="1_jogador">1 Jogador</button>
+    </div>
     
+     <!-- corpo do jogo -->
+    <div id="container" class="hide">
+        <div class="box" id="block_1"></div>
+        <div class="box" id="block_2"></div>
+        <div class="box" id="block_3"></div>
+        <div class="box" id="block_4"></div>
+        <div class="box" id="block_5"></div>
+        <div class="box" id="block_6"></div>
+        <div class="box" id="block_7"></div>
+        <div class="box" id="block_8"></div>
+        <div class="box" id="block_9"></div>
+        
+        <!--placar -->
+        <div id="placar-container">
+            <span class="placar_box">
+                <span class="x-placar">X</span>: 
+                <span class="placar-resultado-x">0</span>
+            </span>
+
+            <span class="placar_box">
+                <span class="o-placar">O</span>: 
+                <span class="placar-resultado-o">0</span>
+            </span>
+
+        </div>
+
+        <div class="hide">
+            <div class="x"></div>
+            <div class="o"></div>
+        </div>
+
+        <div id="mensagem" class="hide">
+            <p></p>
+        </div>
+    </div>
 
 
     <script src="./script.js"></script>
