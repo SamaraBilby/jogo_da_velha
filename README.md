@@ -20,7 +20,8 @@ Recriar o jogo da Velha com o objetivo de consolidar os conhecimentos de JavaScr
 ### Tarefas:
 
 - [X] Criar a estrutura com HTML (placar,linhas verticais e horizontais)
-- [ ] Estilização CSS
+- [X] Estilização CSS
+- [ ] Lógica do jogo
 - [ ] Criar alteração do placar na tela
 - [ ] Evento de click do mouse
 - [ ] opção de dois jogadores
